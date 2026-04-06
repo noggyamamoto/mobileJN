@@ -14,7 +14,7 @@
     },
     {
       "type": "checkbox",
-      "checked": false,
+      "checked": true,
       "text": "Estudar requisições HTTP no Flutter"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "type": "checkbox",
-      "checked": true,
+      "checked": false,
       "text": "Entender como buscar dados da web"
     }
   ]
